@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack Web Developer from Palembang, Indonesia 🇮🇩
 
-![Jonathan Wijaya](images/banner.png)
+![Jonathan Wijaya](images/github-banner.png)
 
 - 🔭 I’ve recently completed my final project on my collage. I researched the impact of various feature selection methods, Mutual Information, Lasso Regression, and Spearman Correlation on a BiLSTM deep learning model in predicting stock prices of LQ45 banking sector companies. The article can be accessed at the following link [Jurnal jati](https://ejournal.itn.ac.id/index.php/jati/article/view/16769). My final GPA is 3.66/4.00 with a strong foundation on web development.
 - 🌱 I’m currently learning Laravel, MySQL, php, javascript, Tailwind CSS, ReactJS, Next.js, and RESTful API.
